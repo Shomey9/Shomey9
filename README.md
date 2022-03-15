@@ -17,4 +17,65 @@
     >
 </a>
 
+<h3>Technology Stack:</h3>
+
+<img 
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="react"
+>
+</img>
+<img 
+    src=""
+    alt="ruby"
+>
+</img>
+<img 
+    src=""
+    alt="rails"
+>
+</img>
+<img 
+    src=""
+    alt="javascript"
+>
+</img>
+<img 
+    src=""
+    alt="html"
+>
+</img>
+<img 
+    src=""
+    alt="css"
+>
+</img>
+<img 
+    src=""
+    alt="sql"
+>
+</img>
+<img 
+    src=""
+    alt="redux"
+>
+</img>
+<img 
+    src=""
+    alt="postgres"
+>
+</img>
+<img 
+    src=""
+    alt="postman"
+>
+</img>
+<img 
+    src=""
+    alt="hiroku"
+>
+</img>
+
+
+
+
 
