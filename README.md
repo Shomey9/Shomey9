@@ -19,61 +19,56 @@
 
 <h3>Technology Stack:</h3>
 <p align="left" style="pointer-events: none">
-<img 
-    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-    alt="react"
->
-</img>
-<img 
-    src=""
-    alt="ruby"
->
-</img>
-<img 
-    src=""
-    alt="rails"
->
-</img>
-<img 
-    src=""
-    alt="javascript"
->
-</img>
-<img 
-    src=""
-    alt="html"
->
-</img>
-<img 
-    src=""
-    alt="css"
->
-</img>
-<img 
-    src=""
-    alt="sql"
->
-</img>
-<img 
-    src=""
-    alt="redux"
->
-</img>
-<img 
-    src=""
-    alt="postgres"
->
-</img>
-<img 
-    src=""
-    alt="postman"
->
-</img>
-<img 
-    src=""
-    alt="hiroku"
->
-</img>
+    <img 
+        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+        alt="react"
+    >
+    </img>
+    <img 
+        src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"
+        alt="ruby"
+    >
+    </img>
+    <img 
+        src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"
+        alt="rubyonrails"
+    >
+    </img>
+    <img 
+        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+        alt="javascript"
+    >
+    </img>
+    <img 
+        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+        alt="html"
+    >
+    </img>
+    <img 
+        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+        alt="css"
+    >
+    </img>
+    <img 
+        src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+        alt="sql"
+    >
+    </img>
+    <img 
+        src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+        alt="redux"
+    >
+    </img>
+    <img 
+        src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+        alt="postgresql"
+    >
+    </img>
+    <img 
+        src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
+        alt="postman"
+    >
+    </img>
 </p>
 
 
