@@ -18,11 +18,10 @@
 </a>
 
 <h3>Technology Stack:</h3>
-<p align="left">
+<p align="left" style="pointer-events: none">
 <img 
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
     alt="react"
-    style="pointer-events: none"
 >
 </img>
 <img 
